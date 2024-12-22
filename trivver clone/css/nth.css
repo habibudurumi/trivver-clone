@@ -1,0 +1,2399 @@
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(1),
+#main-menu .bg-div > div:nth-child(1),
+[data-bg-pixels] > .bg-div > div:nth-child(1) {
+  animation-delay: 111ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(2),
+#main-menu .bg-div > div:nth-child(2),
+[data-bg-pixels] > .bg-div > div:nth-child(2) {
+  animation-delay: 170ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(3),
+#main-menu .bg-div > div:nth-child(3),
+[data-bg-pixels] > .bg-div > div:nth-child(3) {
+  animation-delay: 128ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(4),
+#main-menu .bg-div > div:nth-child(4),
+[data-bg-pixels] > .bg-div > div:nth-child(4) {
+  animation-delay: 61ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(5),
+#main-menu .bg-div > div:nth-child(5),
+[data-bg-pixels] > .bg-div > div:nth-child(5) {
+  animation-delay: 142ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(6),
+#main-menu .bg-div > div:nth-child(6),
+[data-bg-pixels] > .bg-div > div:nth-child(6) {
+  animation-delay: 208ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(7),
+#main-menu .bg-div > div:nth-child(7),
+[data-bg-pixels] > .bg-div > div:nth-child(7) {
+  animation-delay: 132ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(8),
+#main-menu .bg-div > div:nth-child(8),
+[data-bg-pixels] > .bg-div > div:nth-child(8) {
+  animation-delay: 116ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(9),
+#main-menu .bg-div > div:nth-child(9),
+[data-bg-pixels] > .bg-div > div:nth-child(9) {
+  animation-delay: 149ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(10),
+#main-menu .bg-div > div:nth-child(10),
+[data-bg-pixels] > .bg-div > div:nth-child(10) {
+  animation-delay: 141ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(11),
+#main-menu .bg-div > div:nth-child(11),
+[data-bg-pixels] > .bg-div > div:nth-child(11) {
+  animation-delay: 245ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(12),
+#main-menu .bg-div > div:nth-child(12),
+[data-bg-pixels] > .bg-div > div:nth-child(12) {
+  animation-delay: 242ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(13),
+#main-menu .bg-div > div:nth-child(13),
+[data-bg-pixels] > .bg-div > div:nth-child(13) {
+  animation-delay: 226ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(14),
+#main-menu .bg-div > div:nth-child(14),
+[data-bg-pixels] > .bg-div > div:nth-child(14) {
+  animation-delay: 267ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(15),
+#main-menu .bg-div > div:nth-child(15),
+[data-bg-pixels] > .bg-div > div:nth-child(15) {
+  animation-delay: 156ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(16),
+#main-menu .bg-div > div:nth-child(16),
+[data-bg-pixels] > .bg-div > div:nth-child(16) {
+  animation-delay: 212ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(17),
+#main-menu .bg-div > div:nth-child(17),
+[data-bg-pixels] > .bg-div > div:nth-child(17) {
+  animation-delay: 224ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(18),
+#main-menu .bg-div > div:nth-child(18),
+[data-bg-pixels] > .bg-div > div:nth-child(18) {
+  animation-delay: 296ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(19),
+#main-menu .bg-div > div:nth-child(19),
+[data-bg-pixels] > .bg-div > div:nth-child(19) {
+  animation-delay: 169ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(20),
+#main-menu .bg-div > div:nth-child(20),
+[data-bg-pixels] > .bg-div > div:nth-child(20) {
+  animation-delay: 307ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(21),
+#main-menu .bg-div > div:nth-child(21),
+[data-bg-pixels] > .bg-div > div:nth-child(21) {
+  animation-delay: 324ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(22),
+#main-menu .bg-div > div:nth-child(22),
+[data-bg-pixels] > .bg-div > div:nth-child(22) {
+  animation-delay: 312ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(23),
+#main-menu .bg-div > div:nth-child(23),
+[data-bg-pixels] > .bg-div > div:nth-child(23) {
+  animation-delay: 277ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(24),
+#main-menu .bg-div > div:nth-child(24),
+[data-bg-pixels] > .bg-div > div:nth-child(24) {
+  animation-delay: 170ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(25),
+#main-menu .bg-div > div:nth-child(25),
+[data-bg-pixels] > .bg-div > div:nth-child(25) {
+  animation-delay: 216ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(26),
+#main-menu .bg-div > div:nth-child(26),
+[data-bg-pixels] > .bg-div > div:nth-child(26) {
+  animation-delay: 293ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(27),
+#main-menu .bg-div > div:nth-child(27),
+[data-bg-pixels] > .bg-div > div:nth-child(27) {
+  animation-delay: 354ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(28),
+#main-menu .bg-div > div:nth-child(28),
+[data-bg-pixels] > .bg-div > div:nth-child(28) {
+  animation-delay: 334ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(29),
+#main-menu .bg-div > div:nth-child(29),
+[data-bg-pixels] > .bg-div > div:nth-child(29) {
+  animation-delay: 301ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(30),
+#main-menu .bg-div > div:nth-child(30),
+[data-bg-pixels] > .bg-div > div:nth-child(30) {
+  animation-delay: 263ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(31),
+#main-menu .bg-div > div:nth-child(31),
+[data-bg-pixels] > .bg-div > div:nth-child(31) {
+  animation-delay: 278ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(32),
+#main-menu .bg-div > div:nth-child(32),
+[data-bg-pixels] > .bg-div > div:nth-child(32) {
+  animation-delay: 370ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(33),
+#main-menu .bg-div > div:nth-child(33),
+[data-bg-pixels] > .bg-div > div:nth-child(33) {
+  animation-delay: 196ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(34),
+#main-menu .bg-div > div:nth-child(34),
+[data-bg-pixels] > .bg-div > div:nth-child(34) {
+  animation-delay: 222ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(35),
+#main-menu .bg-div > div:nth-child(35),
+[data-bg-pixels] > .bg-div > div:nth-child(35) {
+  animation-delay: 340ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(36),
+#main-menu .bg-div > div:nth-child(36),
+[data-bg-pixels] > .bg-div > div:nth-child(36) {
+  animation-delay: 273ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(37),
+#main-menu .bg-div > div:nth-child(37),
+[data-bg-pixels] > .bg-div > div:nth-child(37) {
+  animation-delay: 304ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(38),
+#main-menu .bg-div > div:nth-child(38),
+[data-bg-pixels] > .bg-div > div:nth-child(38) {
+  animation-delay: 289ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(39),
+#main-menu .bg-div > div:nth-child(39),
+[data-bg-pixels] > .bg-div > div:nth-child(39) {
+  animation-delay: 368ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(40),
+#main-menu .bg-div > div:nth-child(40),
+[data-bg-pixels] > .bg-div > div:nth-child(40) {
+  animation-delay: 395ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(41),
+#main-menu .bg-div > div:nth-child(41),
+[data-bg-pixels] > .bg-div > div:nth-child(41) {
+  animation-delay: 302ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(42),
+#main-menu .bg-div > div:nth-child(42),
+[data-bg-pixels] > .bg-div > div:nth-child(42) {
+  animation-delay: 265ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(43),
+#main-menu .bg-div > div:nth-child(43),
+[data-bg-pixels] > .bg-div > div:nth-child(43) {
+  animation-delay: 433ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(44),
+#main-menu .bg-div > div:nth-child(44),
+[data-bg-pixels] > .bg-div > div:nth-child(44) {
+  animation-delay: 286ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(45),
+#main-menu .bg-div > div:nth-child(45),
+[data-bg-pixels] > .bg-div > div:nth-child(45) {
+  animation-delay: 286ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(46),
+#main-menu .bg-div > div:nth-child(46),
+[data-bg-pixels] > .bg-div > div:nth-child(46) {
+  animation-delay: 421ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(47),
+#main-menu .bg-div > div:nth-child(47),
+[data-bg-pixels] > .bg-div > div:nth-child(47) {
+  animation-delay: 377ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(48),
+#main-menu .bg-div > div:nth-child(48),
+[data-bg-pixels] > .bg-div > div:nth-child(48) {
+  animation-delay: 391ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(49),
+#main-menu .bg-div > div:nth-child(49),
+[data-bg-pixels] > .bg-div > div:nth-child(49) {
+  animation-delay: 464ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(50),
+#main-menu .bg-div > div:nth-child(50),
+[data-bg-pixels] > .bg-div > div:nth-child(50) {
+  animation-delay: 334ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(51),
+#main-menu .bg-div > div:nth-child(51),
+[data-bg-pixels] > .bg-div > div:nth-child(51) {
+  animation-delay: 440ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(52),
+#main-menu .bg-div > div:nth-child(52),
+[data-bg-pixels] > .bg-div > div:nth-child(52) {
+  animation-delay: 346ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(53),
+#main-menu .bg-div > div:nth-child(53),
+[data-bg-pixels] > .bg-div > div:nth-child(53) {
+  animation-delay: 471ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(54),
+#main-menu .bg-div > div:nth-child(54),
+[data-bg-pixels] > .bg-div > div:nth-child(54) {
+  animation-delay: 367ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(55),
+#main-menu .bg-div > div:nth-child(55),
+[data-bg-pixels] > .bg-div > div:nth-child(55) {
+  animation-delay: 346ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(56),
+#main-menu .bg-div > div:nth-child(56),
+[data-bg-pixels] > .bg-div > div:nth-child(56) {
+  animation-delay: 393ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(57),
+#main-menu .bg-div > div:nth-child(57),
+[data-bg-pixels] > .bg-div > div:nth-child(57) {
+  animation-delay: 444ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(58),
+#main-menu .bg-div > div:nth-child(58),
+[data-bg-pixels] > .bg-div > div:nth-child(58) {
+  animation-delay: 488ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(59),
+#main-menu .bg-div > div:nth-child(59),
+[data-bg-pixels] > .bg-div > div:nth-child(59) {
+  animation-delay: 449ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(60),
+#main-menu .bg-div > div:nth-child(60),
+[data-bg-pixels] > .bg-div > div:nth-child(60) {
+  animation-delay: 487ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(61),
+#main-menu .bg-div > div:nth-child(61),
+[data-bg-pixels] > .bg-div > div:nth-child(61) {
+  animation-delay: 382ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(62),
+#main-menu .bg-div > div:nth-child(62),
+[data-bg-pixels] > .bg-div > div:nth-child(62) {
+  animation-delay: 376ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(63),
+#main-menu .bg-div > div:nth-child(63),
+[data-bg-pixels] > .bg-div > div:nth-child(63) {
+  animation-delay: 460ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(64),
+#main-menu .bg-div > div:nth-child(64),
+[data-bg-pixels] > .bg-div > div:nth-child(64) {
+  animation-delay: 352ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(65),
+#main-menu .bg-div > div:nth-child(65),
+[data-bg-pixels] > .bg-div > div:nth-child(65) {
+  animation-delay: 541ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(66),
+#main-menu .bg-div > div:nth-child(66),
+[data-bg-pixels] > .bg-div > div:nth-child(66) {
+  animation-delay: 399ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(67),
+#main-menu .bg-div > div:nth-child(67),
+[data-bg-pixels] > .bg-div > div:nth-child(67) {
+  animation-delay: 512ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(68),
+#main-menu .bg-div > div:nth-child(68),
+[data-bg-pixels] > .bg-div > div:nth-child(68) {
+  animation-delay: 439ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(69),
+#main-menu .bg-div > div:nth-child(69),
+[data-bg-pixels] > .bg-div > div:nth-child(69) {
+  animation-delay: 506ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(70),
+#main-menu .bg-div > div:nth-child(70),
+[data-bg-pixels] > .bg-div > div:nth-child(70) {
+  animation-delay: 494ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(71),
+#main-menu .bg-div > div:nth-child(71),
+[data-bg-pixels] > .bg-div > div:nth-child(71) {
+  animation-delay: 386ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(72),
+#main-menu .bg-div > div:nth-child(72),
+[data-bg-pixels] > .bg-div > div:nth-child(72) {
+  animation-delay: 479ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(73),
+#main-menu .bg-div > div:nth-child(73),
+[data-bg-pixels] > .bg-div > div:nth-child(73) {
+  animation-delay: 579ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(74),
+#main-menu .bg-div > div:nth-child(74),
+[data-bg-pixels] > .bg-div > div:nth-child(74) {
+  animation-delay: 569ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(75),
+#main-menu .bg-div > div:nth-child(75),
+[data-bg-pixels] > .bg-div > div:nth-child(75) {
+  animation-delay: 432ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(76),
+#main-menu .bg-div > div:nth-child(76),
+[data-bg-pixels] > .bg-div > div:nth-child(76) {
+  animation-delay: 466ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(77),
+#main-menu .bg-div > div:nth-child(77),
+[data-bg-pixels] > .bg-div > div:nth-child(77) {
+  animation-delay: 458ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(78),
+#main-menu .bg-div > div:nth-child(78),
+[data-bg-pixels] > .bg-div > div:nth-child(78) {
+  animation-delay: 535ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(79),
+#main-menu .bg-div > div:nth-child(79),
+[data-bg-pixels] > .bg-div > div:nth-child(79) {
+  animation-delay: 515ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(80),
+#main-menu .bg-div > div:nth-child(80),
+[data-bg-pixels] > .bg-div > div:nth-child(80) {
+  animation-delay: 469ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(81),
+#main-menu .bg-div > div:nth-child(81),
+[data-bg-pixels] > .bg-div > div:nth-child(81) {
+  animation-delay: 552ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(82),
+#main-menu .bg-div > div:nth-child(82),
+[data-bg-pixels] > .bg-div > div:nth-child(82) {
+  animation-delay: 601ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(83),
+#main-menu .bg-div > div:nth-child(83),
+[data-bg-pixels] > .bg-div > div:nth-child(83) {
+  animation-delay: 600ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(84),
+#main-menu .bg-div > div:nth-child(84),
+[data-bg-pixels] > .bg-div > div:nth-child(84) {
+  animation-delay: 538ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(85),
+#main-menu .bg-div > div:nth-child(85),
+[data-bg-pixels] > .bg-div > div:nth-child(85) {
+  animation-delay: 564ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(86),
+#main-menu .bg-div > div:nth-child(86),
+[data-bg-pixels] > .bg-div > div:nth-child(86) {
+  animation-delay: 578ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(87),
+#main-menu .bg-div > div:nth-child(87),
+[data-bg-pixels] > .bg-div > div:nth-child(87) {
+  animation-delay: 629ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(88),
+#main-menu .bg-div > div:nth-child(88),
+[data-bg-pixels] > .bg-div > div:nth-child(88) {
+  animation-delay: 544ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(89),
+#main-menu .bg-div > div:nth-child(89),
+[data-bg-pixels] > .bg-div > div:nth-child(89) {
+  animation-delay: 514ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(90),
+#main-menu .bg-div > div:nth-child(90),
+[data-bg-pixels] > .bg-div > div:nth-child(90) {
+  animation-delay: 670ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(91),
+#main-menu .bg-div > div:nth-child(91),
+[data-bg-pixels] > .bg-div > div:nth-child(91) {
+  animation-delay: 586ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(92),
+#main-menu .bg-div > div:nth-child(92),
+[data-bg-pixels] > .bg-div > div:nth-child(92) {
+  animation-delay: 542ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(93),
+#main-menu .bg-div > div:nth-child(93),
+[data-bg-pixels] > .bg-div > div:nth-child(93) {
+  animation-delay: 590ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(94),
+#main-menu .bg-div > div:nth-child(94),
+[data-bg-pixels] > .bg-div > div:nth-child(94) {
+  animation-delay: 539ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(95),
+#main-menu .bg-div > div:nth-child(95),
+[data-bg-pixels] > .bg-div > div:nth-child(95) {
+  animation-delay: 520ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(96),
+#main-menu .bg-div > div:nth-child(96),
+[data-bg-pixels] > .bg-div > div:nth-child(96) {
+  animation-delay: 543ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(97),
+#main-menu .bg-div > div:nth-child(97),
+[data-bg-pixels] > .bg-div > div:nth-child(97) {
+  animation-delay: 709ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(98),
+#main-menu .bg-div > div:nth-child(98),
+[data-bg-pixels] > .bg-div > div:nth-child(98) {
+  animation-delay: 558ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(99),
+#main-menu .bg-div > div:nth-child(99),
+[data-bg-pixels] > .bg-div > div:nth-child(99) {
+  animation-delay: 548ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(100),
+#main-menu .bg-div > div:nth-child(100),
+[data-bg-pixels] > .bg-div > div:nth-child(100) {
+  animation-delay: 550ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(101),
+#main-menu .bg-div > div:nth-child(101),
+[data-bg-pixels] > .bg-div > div:nth-child(101) {
+  animation-delay: 730ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(102),
+#main-menu .bg-div > div:nth-child(102),
+[data-bg-pixels] > .bg-div > div:nth-child(102) {
+  animation-delay: 677ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(103),
+#main-menu .bg-div > div:nth-child(103),
+[data-bg-pixels] > .bg-div > div:nth-child(103) {
+  animation-delay: 610ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(104),
+#main-menu .bg-div > div:nth-child(104),
+[data-bg-pixels] > .bg-div > div:nth-child(104) {
+  animation-delay: 675ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(105),
+#main-menu .bg-div > div:nth-child(105),
+[data-bg-pixels] > .bg-div > div:nth-child(105) {
+  animation-delay: 570ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(106),
+#main-menu .bg-div > div:nth-child(106),
+[data-bg-pixels] > .bg-div > div:nth-child(106) {
+  animation-delay: 641ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(107),
+#main-menu .bg-div > div:nth-child(107),
+[data-bg-pixels] > .bg-div > div:nth-child(107) {
+  animation-delay: 567ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(108),
+#main-menu .bg-div > div:nth-child(108),
+[data-bg-pixels] > .bg-div > div:nth-child(108) {
+  animation-delay: 582ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(109),
+#main-menu .bg-div > div:nth-child(109),
+[data-bg-pixels] > .bg-div > div:nth-child(109) {
+  animation-delay: 753ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(110),
+#main-menu .bg-div > div:nth-child(110),
+[data-bg-pixels] > .bg-div > div:nth-child(110) {
+  animation-delay: 771ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(111),
+#main-menu .bg-div > div:nth-child(111),
+[data-bg-pixels] > .bg-div > div:nth-child(111) {
+  animation-delay: 620ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(112),
+#main-menu .bg-div > div:nth-child(112),
+[data-bg-pixels] > .bg-div > div:nth-child(112) {
+  animation-delay: 753ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(113),
+#main-menu .bg-div > div:nth-child(113),
+[data-bg-pixels] > .bg-div > div:nth-child(113) {
+  animation-delay: 645ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(114),
+#main-menu .bg-div > div:nth-child(114),
+[data-bg-pixels] > .bg-div > div:nth-child(114) {
+  animation-delay: 753ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(115),
+#main-menu .bg-div > div:nth-child(115),
+[data-bg-pixels] > .bg-div > div:nth-child(115) {
+  animation-delay: 643ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(116),
+#main-menu .bg-div > div:nth-child(116),
+[data-bg-pixels] > .bg-div > div:nth-child(116) {
+  animation-delay: 720ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(117),
+#main-menu .bg-div > div:nth-child(117),
+[data-bg-pixels] > .bg-div > div:nth-child(117) {
+  animation-delay: 800ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(118),
+#main-menu .bg-div > div:nth-child(118),
+[data-bg-pixels] > .bg-div > div:nth-child(118) {
+  animation-delay: 693ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(119),
+#main-menu .bg-div > div:nth-child(119),
+[data-bg-pixels] > .bg-div > div:nth-child(119) {
+  animation-delay: 805ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(120),
+#main-menu .bg-div > div:nth-child(120),
+[data-bg-pixels] > .bg-div > div:nth-child(120) {
+  animation-delay: 805ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(121),
+#main-menu .bg-div > div:nth-child(121),
+[data-bg-pixels] > .bg-div > div:nth-child(121) {
+  animation-delay: 668ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(122),
+#main-menu .bg-div > div:nth-child(122),
+[data-bg-pixels] > .bg-div > div:nth-child(122) {
+  animation-delay: 651ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(123),
+#main-menu .bg-div > div:nth-child(123),
+[data-bg-pixels] > .bg-div > div:nth-child(123) {
+  animation-delay: 833ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(124),
+#main-menu .bg-div > div:nth-child(124),
+[data-bg-pixels] > .bg-div > div:nth-child(124) {
+  animation-delay: 719ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(125),
+#main-menu .bg-div > div:nth-child(125),
+[data-bg-pixels] > .bg-div > div:nth-child(125) {
+  animation-delay: 746ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(126),
+#main-menu .bg-div > div:nth-child(126),
+[data-bg-pixels] > .bg-div > div:nth-child(126) {
+  animation-delay: 765ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(127),
+#main-menu .bg-div > div:nth-child(127),
+[data-bg-pixels] > .bg-div > div:nth-child(127) {
+  animation-delay: 822ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(128),
+#main-menu .bg-div > div:nth-child(128),
+[data-bg-pixels] > .bg-div > div:nth-child(128) {
+  animation-delay: 753ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(129),
+#main-menu .bg-div > div:nth-child(129),
+[data-bg-pixels] > .bg-div > div:nth-child(129) {
+  animation-delay: 748ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(130),
+#main-menu .bg-div > div:nth-child(130),
+[data-bg-pixels] > .bg-div > div:nth-child(130) {
+  animation-delay: 757ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(131),
+#main-menu .bg-div > div:nth-child(131),
+[data-bg-pixels] > .bg-div > div:nth-child(131) {
+  animation-delay: 749ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(132),
+#main-menu .bg-div > div:nth-child(132),
+[data-bg-pixels] > .bg-div > div:nth-child(132) {
+  animation-delay: 748ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(133),
+#main-menu .bg-div > div:nth-child(133),
+[data-bg-pixels] > .bg-div > div:nth-child(133) {
+  animation-delay: 716ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(134),
+#main-menu .bg-div > div:nth-child(134),
+[data-bg-pixels] > .bg-div > div:nth-child(134) {
+  animation-delay: 894ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(135),
+#main-menu .bg-div > div:nth-child(135),
+[data-bg-pixels] > .bg-div > div:nth-child(135) {
+  animation-delay: 883ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(136),
+#main-menu .bg-div > div:nth-child(136),
+[data-bg-pixels] > .bg-div > div:nth-child(136) {
+  animation-delay: 809ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(137),
+#main-menu .bg-div > div:nth-child(137),
+[data-bg-pixels] > .bg-div > div:nth-child(137) {
+  animation-delay: 869ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(138),
+#main-menu .bg-div > div:nth-child(138),
+[data-bg-pixels] > .bg-div > div:nth-child(138) {
+  animation-delay: 891ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(139),
+#main-menu .bg-div > div:nth-child(139),
+[data-bg-pixels] > .bg-div > div:nth-child(139) {
+  animation-delay: 838ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(140),
+#main-menu .bg-div > div:nth-child(140),
+[data-bg-pixels] > .bg-div > div:nth-child(140) {
+  animation-delay: 788ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(141),
+#main-menu .bg-div > div:nth-child(141),
+[data-bg-pixels] > .bg-div > div:nth-child(141) {
+  animation-delay: 920ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(142),
+#main-menu .bg-div > div:nth-child(142),
+[data-bg-pixels] > .bg-div > div:nth-child(142) {
+  animation-delay: 770ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(143),
+#main-menu .bg-div > div:nth-child(143),
+[data-bg-pixels] > .bg-div > div:nth-child(143) {
+  animation-delay: 780ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(144),
+#main-menu .bg-div > div:nth-child(144),
+[data-bg-pixels] > .bg-div > div:nth-child(144) {
+  animation-delay: 843ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(145),
+#main-menu .bg-div > div:nth-child(145),
+[data-bg-pixels] > .bg-div > div:nth-child(145) {
+  animation-delay: 862ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(146),
+#main-menu .bg-div > div:nth-child(146),
+[data-bg-pixels] > .bg-div > div:nth-child(146) {
+  animation-delay: 836ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(147),
+#main-menu .bg-div > div:nth-child(147),
+[data-bg-pixels] > .bg-div > div:nth-child(147) {
+  animation-delay: 954ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(148),
+#main-menu .bg-div > div:nth-child(148),
+[data-bg-pixels] > .bg-div > div:nth-child(148) {
+  animation-delay: 850ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(149),
+#main-menu .bg-div > div:nth-child(149),
+[data-bg-pixels] > .bg-div > div:nth-child(149) {
+  animation-delay: 805ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(150),
+#main-menu .bg-div > div:nth-child(150),
+[data-bg-pixels] > .bg-div > div:nth-child(150) {
+  animation-delay: 927ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(151),
+#main-menu .bg-div > div:nth-child(151),
+[data-bg-pixels] > .bg-div > div:nth-child(151) {
+  animation-delay: 844ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(152),
+#main-menu .bg-div > div:nth-child(152),
+[data-bg-pixels] > .bg-div > div:nth-child(152) {
+  animation-delay: 887ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(153),
+#main-menu .bg-div > div:nth-child(153),
+[data-bg-pixels] > .bg-div > div:nth-child(153) {
+  animation-delay: 969ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(154),
+#main-menu .bg-div > div:nth-child(154),
+[data-bg-pixels] > .bg-div > div:nth-child(154) {
+  animation-delay: 802ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(155),
+#main-menu .bg-div > div:nth-child(155),
+[data-bg-pixels] > .bg-div > div:nth-child(155) {
+  animation-delay: 889ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(156),
+#main-menu .bg-div > div:nth-child(156),
+[data-bg-pixels] > .bg-div > div:nth-child(156) {
+  animation-delay: 962ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(157),
+#main-menu .bg-div > div:nth-child(157),
+[data-bg-pixels] > .bg-div > div:nth-child(157) {
+  animation-delay: 861ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(158),
+#main-menu .bg-div > div:nth-child(158),
+[data-bg-pixels] > .bg-div > div:nth-child(158) {
+  animation-delay: 1002ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(159),
+#main-menu .bg-div > div:nth-child(159),
+[data-bg-pixels] > .bg-div > div:nth-child(159) {
+  animation-delay: 859ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(160),
+#main-menu .bg-div > div:nth-child(160),
+[data-bg-pixels] > .bg-div > div:nth-child(160) {
+  animation-delay: 865ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(161),
+#main-menu .bg-div > div:nth-child(161),
+[data-bg-pixels] > .bg-div > div:nth-child(161) {
+  animation-delay: 921ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(162),
+#main-menu .bg-div > div:nth-child(162),
+[data-bg-pixels] > .bg-div > div:nth-child(162) {
+  animation-delay: 985ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(163),
+#main-menu .bg-div > div:nth-child(163),
+[data-bg-pixels] > .bg-div > div:nth-child(163) {
+  animation-delay: 930ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(164),
+#main-menu .bg-div > div:nth-child(164),
+[data-bg-pixels] > .bg-div > div:nth-child(164) {
+  animation-delay: 935ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(165),
+#main-menu .bg-div > div:nth-child(165),
+[data-bg-pixels] > .bg-div > div:nth-child(165) {
+  animation-delay: 943ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(166),
+#main-menu .bg-div > div:nth-child(166),
+[data-bg-pixels] > .bg-div > div:nth-child(166) {
+  animation-delay: 909ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(167),
+#main-menu .bg-div > div:nth-child(167),
+[data-bg-pixels] > .bg-div > div:nth-child(167) {
+  animation-delay: 898ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(168),
+#main-menu .bg-div > div:nth-child(168),
+[data-bg-pixels] > .bg-div > div:nth-child(168) {
+  animation-delay: 921ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(169),
+#main-menu .bg-div > div:nth-child(169),
+[data-bg-pixels] > .bg-div > div:nth-child(169) {
+  animation-delay: 1002ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(170),
+#main-menu .bg-div > div:nth-child(170),
+[data-bg-pixels] > .bg-div > div:nth-child(170) {
+  animation-delay: 1075ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(171),
+#main-menu .bg-div > div:nth-child(171),
+[data-bg-pixels] > .bg-div > div:nth-child(171) {
+  animation-delay: 928ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(172),
+#main-menu .bg-div > div:nth-child(172),
+[data-bg-pixels] > .bg-div > div:nth-child(172) {
+  animation-delay: 955ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(173),
+#main-menu .bg-div > div:nth-child(173),
+[data-bg-pixels] > .bg-div > div:nth-child(173) {
+  animation-delay: 1089ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(174),
+#main-menu .bg-div > div:nth-child(174),
+[data-bg-pixels] > .bg-div > div:nth-child(174) {
+  animation-delay: 1034ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(175),
+#main-menu .bg-div > div:nth-child(175),
+[data-bg-pixels] > .bg-div > div:nth-child(175) {
+  animation-delay: 999ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(176),
+#main-menu .bg-div > div:nth-child(176),
+[data-bg-pixels] > .bg-div > div:nth-child(176) {
+  animation-delay: 1029ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(177),
+#main-menu .bg-div > div:nth-child(177),
+[data-bg-pixels] > .bg-div > div:nth-child(177) {
+  animation-delay: 997ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(178),
+#main-menu .bg-div > div:nth-child(178),
+[data-bg-pixels] > .bg-div > div:nth-child(178) {
+  animation-delay: 1105ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(179),
+#main-menu .bg-div > div:nth-child(179),
+[data-bg-pixels] > .bg-div > div:nth-child(179) {
+  animation-delay: 1030ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(180),
+#main-menu .bg-div > div:nth-child(180),
+[data-bg-pixels] > .bg-div > div:nth-child(180) {
+  animation-delay: 940ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(181),
+#main-menu .bg-div > div:nth-child(181),
+[data-bg-pixels] > .bg-div > div:nth-child(181) {
+  animation-delay: 1106ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(182),
+#main-menu .bg-div > div:nth-child(182),
+[data-bg-pixels] > .bg-div > div:nth-child(182) {
+  animation-delay: 1076ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(183),
+#main-menu .bg-div > div:nth-child(183),
+[data-bg-pixels] > .bg-div > div:nth-child(183) {
+  animation-delay: 1036ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(184),
+#main-menu .bg-div > div:nth-child(184),
+[data-bg-pixels] > .bg-div > div:nth-child(184) {
+  animation-delay: 1068ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(185),
+#main-menu .bg-div > div:nth-child(185),
+[data-bg-pixels] > .bg-div > div:nth-child(185) {
+  animation-delay: 1072ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(186),
+#main-menu .bg-div > div:nth-child(186),
+[data-bg-pixels] > .bg-div > div:nth-child(186) {
+  animation-delay: 992ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(187),
+#main-menu .bg-div > div:nth-child(187),
+[data-bg-pixels] > .bg-div > div:nth-child(187) {
+  animation-delay: 995ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(188),
+#main-menu .bg-div > div:nth-child(188),
+[data-bg-pixels] > .bg-div > div:nth-child(188) {
+  animation-delay: 1024ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(189),
+#main-menu .bg-div > div:nth-child(189),
+[data-bg-pixels] > .bg-div > div:nth-child(189) {
+  animation-delay: 1081ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(190),
+#main-menu .bg-div > div:nth-child(190),
+[data-bg-pixels] > .bg-div > div:nth-child(190) {
+  animation-delay: 989ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(191),
+#main-menu .bg-div > div:nth-child(191),
+[data-bg-pixels] > .bg-div > div:nth-child(191) {
+  animation-delay: 1046ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(192),
+#main-menu .bg-div > div:nth-child(192),
+[data-bg-pixels] > .bg-div > div:nth-child(192) {
+  animation-delay: 1147ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(193),
+#main-menu .bg-div > div:nth-child(193),
+[data-bg-pixels] > .bg-div > div:nth-child(193) {
+  animation-delay: 1151ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(194),
+#main-menu .bg-div > div:nth-child(194),
+[data-bg-pixels] > .bg-div > div:nth-child(194) {
+  animation-delay: 1002ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(195),
+#main-menu .bg-div > div:nth-child(195),
+[data-bg-pixels] > .bg-div > div:nth-child(195) {
+  animation-delay: 1166ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(196),
+#main-menu .bg-div > div:nth-child(196),
+[data-bg-pixels] > .bg-div > div:nth-child(196) {
+  animation-delay: 1028ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(197),
+#main-menu .bg-div > div:nth-child(197),
+[data-bg-pixels] > .bg-div > div:nth-child(197) {
+  animation-delay: 1038ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(198),
+#main-menu .bg-div > div:nth-child(198),
+[data-bg-pixels] > .bg-div > div:nth-child(198) {
+  animation-delay: 1150ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(199),
+#main-menu .bg-div > div:nth-child(199),
+[data-bg-pixels] > .bg-div > div:nth-child(199) {
+  animation-delay: 1070ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(200),
+#main-menu .bg-div > div:nth-child(200),
+[data-bg-pixels] > .bg-div > div:nth-child(200) {
+  animation-delay: 1071ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(201),
+#main-menu .bg-div > div:nth-child(201),
+[data-bg-pixels] > .bg-div > div:nth-child(201) {
+  animation-delay: 1131ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(202),
+#main-menu .bg-div > div:nth-child(202),
+[data-bg-pixels] > .bg-div > div:nth-child(202) {
+  animation-delay: 1230ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(203),
+#main-menu .bg-div > div:nth-child(203),
+[data-bg-pixels] > .bg-div > div:nth-child(203) {
+  animation-delay: 1176ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(204),
+#main-menu .bg-div > div:nth-child(204),
+[data-bg-pixels] > .bg-div > div:nth-child(204) {
+  animation-delay: 1219ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(205),
+#main-menu .bg-div > div:nth-child(205),
+[data-bg-pixels] > .bg-div > div:nth-child(205) {
+  animation-delay: 1218ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(206),
+#main-menu .bg-div > div:nth-child(206),
+[data-bg-pixels] > .bg-div > div:nth-child(206) {
+  animation-delay: 1069ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(207),
+#main-menu .bg-div > div:nth-child(207),
+[data-bg-pixels] > .bg-div > div:nth-child(207) {
+  animation-delay: 1079ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(208),
+#main-menu .bg-div > div:nth-child(208),
+[data-bg-pixels] > .bg-div > div:nth-child(208) {
+  animation-delay: 1231ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(209),
+#main-menu .bg-div > div:nth-child(209),
+[data-bg-pixels] > .bg-div > div:nth-child(209) {
+  animation-delay: 1214ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(210),
+#main-menu .bg-div > div:nth-child(210),
+[data-bg-pixels] > .bg-div > div:nth-child(210) {
+  animation-delay: 1092ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(211),
+#main-menu .bg-div > div:nth-child(211),
+[data-bg-pixels] > .bg-div > div:nth-child(211) {
+  animation-delay: 1205ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(212),
+#main-menu .bg-div > div:nth-child(212),
+[data-bg-pixels] > .bg-div > div:nth-child(212) {
+  animation-delay: 1171ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(213),
+#main-menu .bg-div > div:nth-child(213),
+[data-bg-pixels] > .bg-div > div:nth-child(213) {
+  animation-delay: 1119ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(214),
+#main-menu .bg-div > div:nth-child(214),
+[data-bg-pixels] > .bg-div > div:nth-child(214) {
+  animation-delay: 1115ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(215),
+#main-menu .bg-div > div:nth-child(215),
+[data-bg-pixels] > .bg-div > div:nth-child(215) {
+  animation-delay: 1264ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(216),
+#main-menu .bg-div > div:nth-child(216),
+[data-bg-pixels] > .bg-div > div:nth-child(216) {
+  animation-delay: 1252ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(217),
+#main-menu .bg-div > div:nth-child(217),
+[data-bg-pixels] > .bg-div > div:nth-child(217) {
+  animation-delay: 1172ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(218),
+#main-menu .bg-div > div:nth-child(218),
+[data-bg-pixels] > .bg-div > div:nth-child(218) {
+  animation-delay: 1128ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(219),
+#main-menu .bg-div > div:nth-child(219),
+[data-bg-pixels] > .bg-div > div:nth-child(219) {
+  animation-delay: 1131ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(220),
+#main-menu .bg-div > div:nth-child(220),
+[data-bg-pixels] > .bg-div > div:nth-child(220) {
+  animation-delay: 1184ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(221),
+#main-menu .bg-div > div:nth-child(221),
+[data-bg-pixels] > .bg-div > div:nth-child(221) {
+  animation-delay: 1159ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(222),
+#main-menu .bg-div > div:nth-child(222),
+[data-bg-pixels] > .bg-div > div:nth-child(222) {
+  animation-delay: 1158ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(223),
+#main-menu .bg-div > div:nth-child(223),
+[data-bg-pixels] > .bg-div > div:nth-child(223) {
+  animation-delay: 1277ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(224),
+#main-menu .bg-div > div:nth-child(224),
+[data-bg-pixels] > .bg-div > div:nth-child(224) {
+  animation-delay: 1216ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(225),
+#main-menu .bg-div > div:nth-child(225),
+[data-bg-pixels] > .bg-div > div:nth-child(225) {
+  animation-delay: 1158ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(226),
+#main-menu .bg-div > div:nth-child(226),
+[data-bg-pixels] > .bg-div > div:nth-child(226) {
+  animation-delay: 1199ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(227),
+#main-menu .bg-div > div:nth-child(227),
+[data-bg-pixels] > .bg-div > div:nth-child(227) {
+  animation-delay: 1304ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(228),
+#main-menu .bg-div > div:nth-child(228),
+[data-bg-pixels] > .bg-div > div:nth-child(228) {
+  animation-delay: 1348ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(229),
+#main-menu .bg-div > div:nth-child(229),
+[data-bg-pixels] > .bg-div > div:nth-child(229) {
+  animation-delay: 1215ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(230),
+#main-menu .bg-div > div:nth-child(230),
+[data-bg-pixels] > .bg-div > div:nth-child(230) {
+  animation-delay: 1374ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(231),
+#main-menu .bg-div > div:nth-child(231),
+[data-bg-pixels] > .bg-div > div:nth-child(231) {
+  animation-delay: 1356ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(232),
+#main-menu .bg-div > div:nth-child(232),
+[data-bg-pixels] > .bg-div > div:nth-child(232) {
+  animation-delay: 1347ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(233),
+#main-menu .bg-div > div:nth-child(233),
+[data-bg-pixels] > .bg-div > div:nth-child(233) {
+  animation-delay: 1355ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(234),
+#main-menu .bg-div > div:nth-child(234),
+[data-bg-pixels] > .bg-div > div:nth-child(234) {
+  animation-delay: 1246ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(235),
+#main-menu .bg-div > div:nth-child(235),
+[data-bg-pixels] > .bg-div > div:nth-child(235) {
+  animation-delay: 1233ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(236),
+#main-menu .bg-div > div:nth-child(236),
+[data-bg-pixels] > .bg-div > div:nth-child(236) {
+  animation-delay: 1349ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(237),
+#main-menu .bg-div > div:nth-child(237),
+[data-bg-pixels] > .bg-div > div:nth-child(237) {
+  animation-delay: 1287ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(238),
+#main-menu .bg-div > div:nth-child(238),
+[data-bg-pixels] > .bg-div > div:nth-child(238) {
+  animation-delay: 1416ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(239),
+#main-menu .bg-div > div:nth-child(239),
+[data-bg-pixels] > .bg-div > div:nth-child(239) {
+  animation-delay: 1339ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(240),
+#main-menu .bg-div > div:nth-child(240),
+[data-bg-pixels] > .bg-div > div:nth-child(240) {
+  animation-delay: 1317ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(241),
+#main-menu .bg-div > div:nth-child(241),
+[data-bg-pixels] > .bg-div > div:nth-child(241) {
+  animation-delay: 1385ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(242),
+#main-menu .bg-div > div:nth-child(242),
+[data-bg-pixels] > .bg-div > div:nth-child(242) {
+  animation-delay: 1425ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(243),
+#main-menu .bg-div > div:nth-child(243),
+[data-bg-pixels] > .bg-div > div:nth-child(243) {
+  animation-delay: 1411ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(244),
+#main-menu .bg-div > div:nth-child(244),
+[data-bg-pixels] > .bg-div > div:nth-child(244) {
+  animation-delay: 1337ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(245),
+#main-menu .bg-div > div:nth-child(245),
+[data-bg-pixels] > .bg-div > div:nth-child(245) {
+  animation-delay: 1441ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(246),
+#main-menu .bg-div > div:nth-child(246),
+[data-bg-pixels] > .bg-div > div:nth-child(246) {
+  animation-delay: 1333ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(247),
+#main-menu .bg-div > div:nth-child(247),
+[data-bg-pixels] > .bg-div > div:nth-child(247) {
+  animation-delay: 1401ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(248),
+#main-menu .bg-div > div:nth-child(248),
+[data-bg-pixels] > .bg-div > div:nth-child(248) {
+  animation-delay: 1469ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(249),
+#main-menu .bg-div > div:nth-child(249),
+[data-bg-pixels] > .bg-div > div:nth-child(249) {
+  animation-delay: 1355ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(250),
+#main-menu .bg-div > div:nth-child(250),
+[data-bg-pixels] > .bg-div > div:nth-child(250) {
+  animation-delay: 1291ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(251),
+#main-menu .bg-div > div:nth-child(251),
+[data-bg-pixels] > .bg-div > div:nth-child(251) {
+  animation-delay: 1347ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(252),
+#main-menu .bg-div > div:nth-child(252),
+[data-bg-pixels] > .bg-div > div:nth-child(252) {
+  animation-delay: 1376ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(253),
+#main-menu .bg-div > div:nth-child(253),
+[data-bg-pixels] > .bg-div > div:nth-child(253) {
+  animation-delay: 1414ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(254),
+#main-menu .bg-div > div:nth-child(254),
+[data-bg-pixels] > .bg-div > div:nth-child(254) {
+  animation-delay: 1304ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(255),
+#main-menu .bg-div > div:nth-child(255),
+[data-bg-pixels] > .bg-div > div:nth-child(255) {
+  animation-delay: 1440ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(256),
+#main-menu .bg-div > div:nth-child(256),
+[data-bg-pixels] > .bg-div > div:nth-child(256) {
+  animation-delay: 1351ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(257),
+#main-menu .bg-div > div:nth-child(257),
+[data-bg-pixels] > .bg-div > div:nth-child(257) {
+  animation-delay: 1434ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(258),
+#main-menu .bg-div > div:nth-child(258),
+[data-bg-pixels] > .bg-div > div:nth-child(258) {
+  animation-delay: 1512ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(259),
+#main-menu .bg-div > div:nth-child(259),
+[data-bg-pixels] > .bg-div > div:nth-child(259) {
+  animation-delay: 1489ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(260),
+#main-menu .bg-div > div:nth-child(260),
+[data-bg-pixels] > .bg-div > div:nth-child(260) {
+  animation-delay: 1337ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(261),
+#main-menu .bg-div > div:nth-child(261),
+[data-bg-pixels] > .bg-div > div:nth-child(261) {
+  animation-delay: 1390ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(262),
+#main-menu .bg-div > div:nth-child(262),
+[data-bg-pixels] > .bg-div > div:nth-child(262) {
+  animation-delay: 1416ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(263),
+#main-menu .bg-div > div:nth-child(263),
+[data-bg-pixels] > .bg-div > div:nth-child(263) {
+  animation-delay: 1403ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(264),
+#main-menu .bg-div > div:nth-child(264),
+[data-bg-pixels] > .bg-div > div:nth-child(264) {
+  animation-delay: 1549ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(265),
+#main-menu .bg-div > div:nth-child(265),
+[data-bg-pixels] > .bg-div > div:nth-child(265) {
+  animation-delay: 1420ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(266),
+#main-menu .bg-div > div:nth-child(266),
+[data-bg-pixels] > .bg-div > div:nth-child(266) {
+  animation-delay: 1543ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(267),
+#main-menu .bg-div > div:nth-child(267),
+[data-bg-pixels] > .bg-div > div:nth-child(267) {
+  animation-delay: 1527ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(268),
+#main-menu .bg-div > div:nth-child(268),
+[data-bg-pixels] > .bg-div > div:nth-child(268) {
+  animation-delay: 1487ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(269),
+#main-menu .bg-div > div:nth-child(269),
+[data-bg-pixels] > .bg-div > div:nth-child(269) {
+  animation-delay: 1529ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(270),
+#main-menu .bg-div > div:nth-child(270),
+[data-bg-pixels] > .bg-div > div:nth-child(270) {
+  animation-delay: 1413ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(271),
+#main-menu .bg-div > div:nth-child(271),
+[data-bg-pixels] > .bg-div > div:nth-child(271) {
+  animation-delay: 1540ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(272),
+#main-menu .bg-div > div:nth-child(272),
+[data-bg-pixels] > .bg-div > div:nth-child(272) {
+  animation-delay: 1429ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(273),
+#main-menu .bg-div > div:nth-child(273),
+[data-bg-pixels] > .bg-div > div:nth-child(273) {
+  animation-delay: 1467ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(274),
+#main-menu .bg-div > div:nth-child(274),
+[data-bg-pixels] > .bg-div > div:nth-child(274) {
+  animation-delay: 1514ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(275),
+#main-menu .bg-div > div:nth-child(275),
+[data-bg-pixels] > .bg-div > div:nth-child(275) {
+  animation-delay: 1588ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(276),
+#main-menu .bg-div > div:nth-child(276),
+[data-bg-pixels] > .bg-div > div:nth-child(276) {
+  animation-delay: 1440ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(277),
+#main-menu .bg-div > div:nth-child(277),
+[data-bg-pixels] > .bg-div > div:nth-child(277) {
+  animation-delay: 1614ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(278),
+#main-menu .bg-div > div:nth-child(278),
+[data-bg-pixels] > .bg-div > div:nth-child(278) {
+  animation-delay: 1531ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(279),
+#main-menu .bg-div > div:nth-child(279),
+[data-bg-pixels] > .bg-div > div:nth-child(279) {
+  animation-delay: 1550ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(280),
+#main-menu .bg-div > div:nth-child(280),
+[data-bg-pixels] > .bg-div > div:nth-child(280) {
+  animation-delay: 1541ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(281),
+#main-menu .bg-div > div:nth-child(281),
+[data-bg-pixels] > .bg-div > div:nth-child(281) {
+  animation-delay: 1496ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(282),
+#main-menu .bg-div > div:nth-child(282),
+[data-bg-pixels] > .bg-div > div:nth-child(282) {
+  animation-delay: 1579ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(283),
+#main-menu .bg-div > div:nth-child(283),
+[data-bg-pixels] > .bg-div > div:nth-child(283) {
+  animation-delay: 1622ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(284),
+#main-menu .bg-div > div:nth-child(284),
+[data-bg-pixels] > .bg-div > div:nth-child(284) {
+  animation-delay: 1458ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(285),
+#main-menu .bg-div > div:nth-child(285),
+[data-bg-pixels] > .bg-div > div:nth-child(285) {
+  animation-delay: 1635ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(286),
+#main-menu .bg-div > div:nth-child(286),
+[data-bg-pixels] > .bg-div > div:nth-child(286) {
+  animation-delay: 1477ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(287),
+#main-menu .bg-div > div:nth-child(287),
+[data-bg-pixels] > .bg-div > div:nth-child(287) {
+  animation-delay: 1495ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(288),
+#main-menu .bg-div > div:nth-child(288),
+[data-bg-pixels] > .bg-div > div:nth-child(288) {
+  animation-delay: 1505ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(289),
+#main-menu .bg-div > div:nth-child(289),
+[data-bg-pixels] > .bg-div > div:nth-child(289) {
+  animation-delay: 1639ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(290),
+#main-menu .bg-div > div:nth-child(290),
+[data-bg-pixels] > .bg-div > div:nth-child(290) {
+  animation-delay: 1489ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(291),
+#main-menu .bg-div > div:nth-child(291),
+[data-bg-pixels] > .bg-div > div:nth-child(291) {
+  animation-delay: 1612ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(292),
+#main-menu .bg-div > div:nth-child(292),
+[data-bg-pixels] > .bg-div > div:nth-child(292) {
+  animation-delay: 1517ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(293),
+#main-menu .bg-div > div:nth-child(293),
+[data-bg-pixels] > .bg-div > div:nth-child(293) {
+  animation-delay: 1592ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(294),
+#main-menu .bg-div > div:nth-child(294),
+[data-bg-pixels] > .bg-div > div:nth-child(294) {
+  animation-delay: 1621ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(295),
+#main-menu .bg-div > div:nth-child(295),
+[data-bg-pixels] > .bg-div > div:nth-child(295) {
+  animation-delay: 1680ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(296),
+#main-menu .bg-div > div:nth-child(296),
+[data-bg-pixels] > .bg-div > div:nth-child(296) {
+  animation-delay: 1546ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(297),
+#main-menu .bg-div > div:nth-child(297),
+[data-bg-pixels] > .bg-div > div:nth-child(297) {
+  animation-delay: 1695ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(298),
+#main-menu .bg-div > div:nth-child(298),
+[data-bg-pixels] > .bg-div > div:nth-child(298) {
+  animation-delay: 1635ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(299),
+#main-menu .bg-div > div:nth-child(299),
+[data-bg-pixels] > .bg-div > div:nth-child(299) {
+  animation-delay: 1572ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(300),
+#main-menu .bg-div > div:nth-child(300),
+[data-bg-pixels] > .bg-div > div:nth-child(300) {
+  animation-delay: 1561ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(301),
+#main-menu .bg-div > div:nth-child(301),
+[data-bg-pixels] > .bg-div > div:nth-child(301) {
+  animation-delay: 1575ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(302),
+#main-menu .bg-div > div:nth-child(302),
+[data-bg-pixels] > .bg-div > div:nth-child(302) {
+  animation-delay: 1601ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(303),
+#main-menu .bg-div > div:nth-child(303),
+[data-bg-pixels] > .bg-div > div:nth-child(303) {
+  animation-delay: 1574ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(304),
+#main-menu .bg-div > div:nth-child(304),
+[data-bg-pixels] > .bg-div > div:nth-child(304) {
+  animation-delay: 1640ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(305),
+#main-menu .bg-div > div:nth-child(305),
+[data-bg-pixels] > .bg-div > div:nth-child(305) {
+  animation-delay: 1735ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(306),
+#main-menu .bg-div > div:nth-child(306),
+[data-bg-pixels] > .bg-div > div:nth-child(306) {
+  animation-delay: 1647ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(307),
+#main-menu .bg-div > div:nth-child(307),
+[data-bg-pixels] > .bg-div > div:nth-child(307) {
+  animation-delay: 1745ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(308),
+#main-menu .bg-div > div:nth-child(308),
+[data-bg-pixels] > .bg-div > div:nth-child(308) {
+  animation-delay: 1660ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(309),
+#main-menu .bg-div > div:nth-child(309),
+[data-bg-pixels] > .bg-div > div:nth-child(309) {
+  animation-delay: 1756ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(310),
+#main-menu .bg-div > div:nth-child(310),
+[data-bg-pixels] > .bg-div > div:nth-child(310) {
+  animation-delay: 1587ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(311),
+#main-menu .bg-div > div:nth-child(311),
+[data-bg-pixels] > .bg-div > div:nth-child(311) {
+  animation-delay: 1738ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(312),
+#main-menu .bg-div > div:nth-child(312),
+[data-bg-pixels] > .bg-div > div:nth-child(312) {
+  animation-delay: 1706ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(313),
+#main-menu .bg-div > div:nth-child(313),
+[data-bg-pixels] > .bg-div > div:nth-child(313) {
+  animation-delay: 1702ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(314),
+#main-menu .bg-div > div:nth-child(314),
+[data-bg-pixels] > .bg-div > div:nth-child(314) {
+  animation-delay: 1670ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(315),
+#main-menu .bg-div > div:nth-child(315),
+[data-bg-pixels] > .bg-div > div:nth-child(315) {
+  animation-delay: 1648ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(316),
+#main-menu .bg-div > div:nth-child(316),
+[data-bg-pixels] > .bg-div > div:nth-child(316) {
+  animation-delay: 1677ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(317),
+#main-menu .bg-div > div:nth-child(317),
+[data-bg-pixels] > .bg-div > div:nth-child(317) {
+  animation-delay: 1759ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(318),
+#main-menu .bg-div > div:nth-child(318),
+[data-bg-pixels] > .bg-div > div:nth-child(318) {
+  animation-delay: 1762ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(319),
+#main-menu .bg-div > div:nth-child(319),
+[data-bg-pixels] > .bg-div > div:nth-child(319) {
+  animation-delay: 1646ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(320),
+#main-menu .bg-div > div:nth-child(320),
+[data-bg-pixels] > .bg-div > div:nth-child(320) {
+  animation-delay: 1720ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(321),
+#main-menu .bg-div > div:nth-child(321),
+[data-bg-pixels] > .bg-div > div:nth-child(321) {
+  animation-delay: 1714ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(322),
+#main-menu .bg-div > div:nth-child(322),
+[data-bg-pixels] > .bg-div > div:nth-child(322) {
+  animation-delay: 1667ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(323),
+#main-menu .bg-div > div:nth-child(323),
+[data-bg-pixels] > .bg-div > div:nth-child(323) {
+  animation-delay: 1667ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(324),
+#main-menu .bg-div > div:nth-child(324),
+[data-bg-pixels] > .bg-div > div:nth-child(324) {
+  animation-delay: 1840ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(325),
+#main-menu .bg-div > div:nth-child(325),
+[data-bg-pixels] > .bg-div > div:nth-child(325) {
+  animation-delay: 1755ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(326),
+#main-menu .bg-div > div:nth-child(326),
+[data-bg-pixels] > .bg-div > div:nth-child(326) {
+  animation-delay: 1680ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(327),
+#main-menu .bg-div > div:nth-child(327),
+[data-bg-pixels] > .bg-div > div:nth-child(327) {
+  animation-delay: 1714ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(328),
+#main-menu .bg-div > div:nth-child(328),
+[data-bg-pixels] > .bg-div > div:nth-child(328) {
+  animation-delay: 1859ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(329),
+#main-menu .bg-div > div:nth-child(329),
+[data-bg-pixels] > .bg-div > div:nth-child(329) {
+  animation-delay: 1869ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(330),
+#main-menu .bg-div > div:nth-child(330),
+[data-bg-pixels] > .bg-div > div:nth-child(330) {
+  animation-delay: 1755ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(331),
+#main-menu .bg-div > div:nth-child(331),
+[data-bg-pixels] > .bg-div > div:nth-child(331) {
+  animation-delay: 1715ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(332),
+#main-menu .bg-div > div:nth-child(332),
+[data-bg-pixels] > .bg-div > div:nth-child(332) {
+  animation-delay: 1774ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(333),
+#main-menu .bg-div > div:nth-child(333),
+[data-bg-pixels] > .bg-div > div:nth-child(333) {
+  animation-delay: 1808ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(334),
+#main-menu .bg-div > div:nth-child(334),
+[data-bg-pixels] > .bg-div > div:nth-child(334) {
+  animation-delay: 1745ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(335),
+#main-menu .bg-div > div:nth-child(335),
+[data-bg-pixels] > .bg-div > div:nth-child(335) {
+  animation-delay: 1790ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(336),
+#main-menu .bg-div > div:nth-child(336),
+[data-bg-pixels] > .bg-div > div:nth-child(336) {
+  animation-delay: 1773ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(337),
+#main-menu .bg-div > div:nth-child(337),
+[data-bg-pixels] > .bg-div > div:nth-child(337) {
+  animation-delay: 1729ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(338),
+#main-menu .bg-div > div:nth-child(338),
+[data-bg-pixels] > .bg-div > div:nth-child(338) {
+  animation-delay: 1889ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(339),
+#main-menu .bg-div > div:nth-child(339),
+[data-bg-pixels] > .bg-div > div:nth-child(339) {
+  animation-delay: 1883ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(340),
+#main-menu .bg-div > div:nth-child(340),
+[data-bg-pixels] > .bg-div > div:nth-child(340) {
+  animation-delay: 1899ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(341),
+#main-menu .bg-div > div:nth-child(341),
+[data-bg-pixels] > .bg-div > div:nth-child(341) {
+  animation-delay: 1811ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(342),
+#main-menu .bg-div > div:nth-child(342),
+[data-bg-pixels] > .bg-div > div:nth-child(342) {
+  animation-delay: 1761ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(343),
+#main-menu .bg-div > div:nth-child(343),
+[data-bg-pixels] > .bg-div > div:nth-child(343) {
+  animation-delay: 1907ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(344),
+#main-menu .bg-div > div:nth-child(344),
+[data-bg-pixels] > .bg-div > div:nth-child(344) {
+  animation-delay: 1867ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(345),
+#main-menu .bg-div > div:nth-child(345),
+[data-bg-pixels] > .bg-div > div:nth-child(345) {
+  animation-delay: 1931ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(346),
+#main-menu .bg-div > div:nth-child(346),
+[data-bg-pixels] > .bg-div > div:nth-child(346) {
+  animation-delay: 1916ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(347),
+#main-menu .bg-div > div:nth-child(347),
+[data-bg-pixels] > .bg-div > div:nth-child(347) {
+  animation-delay: 1850ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(348),
+#main-menu .bg-div > div:nth-child(348),
+[data-bg-pixels] > .bg-div > div:nth-child(348) {
+  animation-delay: 1918ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(349),
+#main-menu .bg-div > div:nth-child(349),
+[data-bg-pixels] > .bg-div > div:nth-child(349) {
+  animation-delay: 1858ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(350),
+#main-menu .bg-div > div:nth-child(350),
+[data-bg-pixels] > .bg-div > div:nth-child(350) {
+  animation-delay: 1848ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(351),
+#main-menu .bg-div > div:nth-child(351),
+[data-bg-pixels] > .bg-div > div:nth-child(351) {
+  animation-delay: 1835ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(352),
+#main-menu .bg-div > div:nth-child(352),
+[data-bg-pixels] > .bg-div > div:nth-child(352) {
+  animation-delay: 1964ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(353),
+#main-menu .bg-div > div:nth-child(353),
+[data-bg-pixels] > .bg-div > div:nth-child(353) {
+  animation-delay: 1808ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(354),
+#main-menu .bg-div > div:nth-child(354),
+[data-bg-pixels] > .bg-div > div:nth-child(354) {
+  animation-delay: 1948ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(355),
+#main-menu .bg-div > div:nth-child(355),
+[data-bg-pixels] > .bg-div > div:nth-child(355) {
+  animation-delay: 1857ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(356),
+#main-menu .bg-div > div:nth-child(356),
+[data-bg-pixels] > .bg-div > div:nth-child(356) {
+  animation-delay: 1944ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(357),
+#main-menu .bg-div > div:nth-child(357),
+[data-bg-pixels] > .bg-div > div:nth-child(357) {
+  animation-delay: 1990ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(358),
+#main-menu .bg-div > div:nth-child(358),
+[data-bg-pixels] > .bg-div > div:nth-child(358) {
+  animation-delay: 1938ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(359),
+#main-menu .bg-div > div:nth-child(359),
+[data-bg-pixels] > .bg-div > div:nth-child(359) {
+  animation-delay: 1853ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(360),
+#main-menu .bg-div > div:nth-child(360),
+[data-bg-pixels] > .bg-div > div:nth-child(360) {
+  animation-delay: 1934ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(361),
+#main-menu .bg-div > div:nth-child(361),
+[data-bg-pixels] > .bg-div > div:nth-child(361) {
+  animation-delay: 1934ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(362),
+#main-menu .bg-div > div:nth-child(362),
+[data-bg-pixels] > .bg-div > div:nth-child(362) {
+  animation-delay: 1880ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(363),
+#main-menu .bg-div > div:nth-child(363),
+[data-bg-pixels] > .bg-div > div:nth-child(363) {
+  animation-delay: 1993ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(364),
+#main-menu .bg-div > div:nth-child(364),
+[data-bg-pixels] > .bg-div > div:nth-child(364) {
+  animation-delay: 1921ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(365),
+#main-menu .bg-div > div:nth-child(365),
+[data-bg-pixels] > .bg-div > div:nth-child(365) {
+  animation-delay: 1938ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(366),
+#main-menu .bg-div > div:nth-child(366),
+[data-bg-pixels] > .bg-div > div:nth-child(366) {
+  animation-delay: 1965ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(367),
+#main-menu .bg-div > div:nth-child(367),
+[data-bg-pixels] > .bg-div > div:nth-child(367) {
+  animation-delay: 1980ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(368),
+#main-menu .bg-div > div:nth-child(368),
+[data-bg-pixels] > .bg-div > div:nth-child(368) {
+  animation-delay: 1979ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(369),
+#main-menu .bg-div > div:nth-child(369),
+[data-bg-pixels] > .bg-div > div:nth-child(369) {
+  animation-delay: 1886ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(370),
+#main-menu .bg-div > div:nth-child(370),
+[data-bg-pixels] > .bg-div > div:nth-child(370) {
+  animation-delay: 2043ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(371),
+#main-menu .bg-div > div:nth-child(371),
+[data-bg-pixels] > .bg-div > div:nth-child(371) {
+  animation-delay: 1927ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(372),
+#main-menu .bg-div > div:nth-child(372),
+[data-bg-pixels] > .bg-div > div:nth-child(372) {
+  animation-delay: 1896ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(373),
+#main-menu .bg-div > div:nth-child(373),
+[data-bg-pixels] > .bg-div > div:nth-child(373) {
+  animation-delay: 1901ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(374),
+#main-menu .bg-div > div:nth-child(374),
+[data-bg-pixels] > .bg-div > div:nth-child(374) {
+  animation-delay: 1957ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(375),
+#main-menu .bg-div > div:nth-child(375),
+[data-bg-pixels] > .bg-div > div:nth-child(375) {
+  animation-delay: 2047ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(376),
+#main-menu .bg-div > div:nth-child(376),
+[data-bg-pixels] > .bg-div > div:nth-child(376) {
+  animation-delay: 2110ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(377),
+#main-menu .bg-div > div:nth-child(377),
+[data-bg-pixels] > .bg-div > div:nth-child(377) {
+  animation-delay: 1956ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(378),
+#main-menu .bg-div > div:nth-child(378),
+[data-bg-pixels] > .bg-div > div:nth-child(378) {
+  animation-delay: 1993ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(379),
+#main-menu .bg-div > div:nth-child(379),
+[data-bg-pixels] > .bg-div > div:nth-child(379) {
+  animation-delay: 2093ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(380),
+#main-menu .bg-div > div:nth-child(380),
+[data-bg-pixels] > .bg-div > div:nth-child(380) {
+  animation-delay: 2092ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(381),
+#main-menu .bg-div > div:nth-child(381),
+[data-bg-pixels] > .bg-div > div:nth-child(381) {
+  animation-delay: 1962ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(382),
+#main-menu .bg-div > div:nth-child(382),
+[data-bg-pixels] > .bg-div > div:nth-child(382) {
+  animation-delay: 1962ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(383),
+#main-menu .bg-div > div:nth-child(383),
+[data-bg-pixels] > .bg-div > div:nth-child(383) {
+  animation-delay: 2076ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(384),
+#main-menu .bg-div > div:nth-child(384),
+[data-bg-pixels] > .bg-div > div:nth-child(384) {
+  animation-delay: 2077ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(385),
+#main-menu .bg-div > div:nth-child(385),
+[data-bg-pixels] > .bg-div > div:nth-child(385) {
+  animation-delay: 2142ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(386),
+#main-menu .bg-div > div:nth-child(386),
+[data-bg-pixels] > .bg-div > div:nth-child(386) {
+  animation-delay: 2112ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(387),
+#main-menu .bg-div > div:nth-child(387),
+[data-bg-pixels] > .bg-div > div:nth-child(387) {
+  animation-delay: 2095ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(388),
+#main-menu .bg-div > div:nth-child(388),
+[data-bg-pixels] > .bg-div > div:nth-child(388) {
+  animation-delay: 2062ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(389),
+#main-menu .bg-div > div:nth-child(389),
+[data-bg-pixels] > .bg-div > div:nth-child(389) {
+  animation-delay: 2157ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(390),
+#main-menu .bg-div > div:nth-child(390),
+[data-bg-pixels] > .bg-div > div:nth-child(390) {
+  animation-delay: 1983ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(391),
+#main-menu .bg-div > div:nth-child(391),
+[data-bg-pixels] > .bg-div > div:nth-child(391) {
+  animation-delay: 2110ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(392),
+#main-menu .bg-div > div:nth-child(392),
+[data-bg-pixels] > .bg-div > div:nth-child(392) {
+  animation-delay: 2026ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(393),
+#main-menu .bg-div > div:nth-child(393),
+[data-bg-pixels] > .bg-div > div:nth-child(393) {
+  animation-delay: 2011ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(394),
+#main-menu .bg-div > div:nth-child(394),
+[data-bg-pixels] > .bg-div > div:nth-child(394) {
+  animation-delay: 2012ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(395),
+#main-menu .bg-div > div:nth-child(395),
+[data-bg-pixels] > .bg-div > div:nth-child(395) {
+  animation-delay: 2095ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(396),
+#main-menu .bg-div > div:nth-child(396),
+[data-bg-pixels] > .bg-div > div:nth-child(396) {
+  animation-delay: 2013ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(397),
+#main-menu .bg-div > div:nth-child(397),
+[data-bg-pixels] > .bg-div > div:nth-child(397) {
+  animation-delay: 2208ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(398),
+#main-menu .bg-div > div:nth-child(398),
+[data-bg-pixels] > .bg-div > div:nth-child(398) {
+  animation-delay: 2082ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(399),
+#main-menu .bg-div > div:nth-child(399),
+[data-bg-pixels] > .bg-div > div:nth-child(399) {
+  animation-delay: 2176ms;
+}
+
+#loading-btn:not(.disabled) .btn-bg-div > div:nth-child(400),
+#main-menu .bg-div > div:nth-child(400),
+[data-bg-pixels] > .bg-div > div:nth-child(400) {
+  animation-delay: 2162ms;
+}
